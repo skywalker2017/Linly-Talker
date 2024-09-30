@@ -987,6 +987,6 @@ if __name__ == "__main__":
         # ssl_certfile=ssl_certfile,  # SSL证书文件
         # ssl_keyfile=ssl_keyfile,  # SSL密钥文件
         # ssl_verify=False,
-        # share=True,
+        share=True,
         debug=True,
     )
